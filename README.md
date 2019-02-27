@@ -1,6 +1,6 @@
-# News Feed App
+# News Feed Angular App
 
-A simple news feed application in Angular 7 where you can choose news sources to view articles. Developed using News API and inspired from this [tutorial](https://www.smashingmagazine.com/2018/10/news-application-with-angular-and-material-design/).
+A simple news feed application in Angular 7 with Angular material where you can choose news sources to view articles. Developed using News API and inspired from this [tutorial](https://www.smashingmagazine.com/2018/10/news-application-with-angular-and-material-design/).
 
 ## Requirements
 1. Node.js
